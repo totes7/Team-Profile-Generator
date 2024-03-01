@@ -5,6 +5,10 @@
 
    This application will take in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
 
+   Here is a mock up of a generated html page.
+
+   ![Mockup](./readme-docs/screenshot.png)
+
   ## Table of Contents
 
   * [Installation](#installation)
